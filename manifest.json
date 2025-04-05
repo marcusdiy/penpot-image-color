@@ -1,0 +1,10 @@
+{
+  "name": "Change Image Color",
+  "description": "A plugin to change black pixels in an image to a different color.",
+  "author": "Your Name",
+  "version": "1.0.0",
+  "id": "com.example.change-image-color",
+  "main": "main.js",
+  "icon": "icon.png",
+  "apiVersion": "1.0"
+}
